@@ -1,4 +1,4 @@
-# FiveM Docker Boilerplate
+# FiveM FX Server Docker Boilerplate
 
 This is a boilerplate for a fivem server running on a docker linux container.
 
